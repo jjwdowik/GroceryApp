@@ -1,0 +1,13 @@
+{
+  "name": "GroceryApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "firebase": "^3.0.4",
+    "react": "^0.14.8",
+    "react-native": "^0.22.2"
+  }
+}
